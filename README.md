@@ -4,6 +4,6 @@ Si encuentras útiles estos scripts y te gustaría apoyar el desarrollo continuo
 
 [![Donar](https://img.shields.io/badge/Donar-PayPal-blue)](https://www.paypal.com/donate?hosted_button_id=@XavierSosaDG)
 
-[Instagram](https://www.instagram.com/tu_usuario/)
+[![Instagram](/images/instagram_button.png)](https://www.instagram.com/tu_usuario/)
 
 ¡Gracias por tu apoyo!
