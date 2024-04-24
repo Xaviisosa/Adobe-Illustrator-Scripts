@@ -1,3 +1,5 @@
+//This script isn't mine, but i don't know who the autor is. Still, this is an edited version of the original code.
+
 //@target illustrator
 app.preferences.setBooleanPreference("ShowExternalJSXWarning", false);
 
