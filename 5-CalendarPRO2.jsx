@@ -1,4 +1,5 @@
 ﻿/* 
+//This script isn't mine, but it's a version of Alexander Ladygin's code with some small changes made by me.
 
   Author: Alexander Ladygin (i@ladygin.pro)
   Program version: Adobe Illustrator CC+ (presumably in Adobe Illustrator CS6 - did not test)
